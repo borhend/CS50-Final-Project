@@ -1,4 +1,4 @@
-# DOGS&CATS
+# Cat&dog
 
 ## CS50
 >This was my final project for conclude the CS50 Introduction to Computer Sciense course.
@@ -74,9 +74,6 @@ Validations for username, password, etc:
 | <img src="Screenshots/img4home.png" width="400"> | <img src="Screenshots/responsive.gif" width = "400">
 
 
-## Demonstration on youtube
-For the CS50 final project you have to make a video showning your project,
-[My Final Project presentation](https://www.youtube.com/watch?v=YAXmRfrcOVc)
 
 ## Documentation
 https://flask.palletsprojects.com/en/1.1.x/
@@ -95,4 +92,4 @@ Thank you for all CS50.
 - Where I get CS50 course?
 https://cs50.harvard.edu/x/2020/
 
-[LinkedIn Felipe Nieto](https://www.linkedin.com/in/felipe-antonio-nieto-curcio-9b865116a/)
+[LinkedIn : https://www.linkedin.com/in/saidiborhen/
